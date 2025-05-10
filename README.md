@@ -55,11 +55,3 @@ A CRUD (Create, Read, Update, Delete) API to manage contacts.
 | PUT    | `/contacts/{id}`      | Update a contact         |
 | DELETE | `/contacts/{id}`      | Delete a contact         |
 
-### Example Contact:
-
-{
-  "contact_name": "Emma Brown",
-  "contact_email": "emma@example.com",
-  "contact_phone": "2223334444",
-  "category_id": 2
-}
